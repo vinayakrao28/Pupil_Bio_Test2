@@ -1,6 +1,11 @@
 Pupil Bio Test 2 - NGS Data Analysis.
 This pipeline automates the process of variant calling from NGS data, including quality control, alignment, sorting, and somatic variant calling.
 
+##Packages required
+##bwa
+##gatk
+##samtools
+
 Script Information
 Main Script:
 Pupil_Bio_automation_Test2.sh
