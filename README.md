@@ -31,6 +31,6 @@ BAM Files: Raw BAM files and Sorted BAM files
 Somatic Variant File: somatic_variant.vcf Final output containing the identified somatic variants.
 
 Notes
-Ensure the input file paths are correctly formatted and accessible.
-The script should be executed in the directory containing the required input files and the script itself.
-Outputs are created in the working directory unless specified otherwise.
+Ensure the input file paths are correctly formatted and accessible in samples_details.txt file.
+The script should be executed in the directory containing the script and samples_details.txt itself.
+Outputs are created in the working directory.
