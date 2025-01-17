@@ -1,4 +1,4 @@
-Pupil Bio Test 2 - NGS Data Analysis
+Pupil Bio Test 2 - NGS Data Analysis.
 This pipeline automates the process of variant calling from NGS data, including quality control, alignment, sorting, and somatic variant calling.
 
 Script Information
